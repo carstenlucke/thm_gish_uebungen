@@ -8,11 +8,12 @@ steht jeweils im Übungsblatt auf der Seite der Veranstaltung:
 
 ## Aufbau
 
-Jede Übung hat ein eigenes Verzeichnis mit einer eigenen `README.md`.
+Jede Übung hat ein eigenes Verzeichnis, benannt nach ihrem Thema, mit einer
+eigenen `README.md`.
 
 | Verzeichnis | Übung |
 |---|---|
-| [`ue06/`](ue06/) | [Kryptografie zum Ausprobieren](https://carstenlucke.github.io/gish-next/ue06-kryptografie/) |
+| [`kryptografie/`](kryptografie/) | [Kryptografie zum Ausprobieren](https://carstenlucke.github.io/gish-next/kryptografie-uebung/) |
 
 ## Dateien herunterladen
 

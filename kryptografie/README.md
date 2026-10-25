@@ -1,7 +1,7 @@
-# Übung 6 — Kryptografie zum Ausprobieren
+# Kryptografie zum Ausprobieren
 
 Die Anleitung steht im
-[Übungsblatt](https://carstenlucke.github.io/gish-next/ue06-kryptografie/).
+[Übungsblatt](https://carstenlucke.github.io/gish-next/kryptografie-uebung/).
 
 | Datei | Aufgabe | Inhalt |
 |---|---|---|
