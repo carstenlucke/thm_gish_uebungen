@@ -1,0 +1,3 @@
+# Die Übungsdateien werden über ihre Hashwerte geprüft: Git darf an ihnen
+# nichts ändern, auch keine Zeilenenden beim Auschecken unter Windows.
+ue*/dateien/** binary
